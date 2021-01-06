@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d01d7bdb-4321-4cbe-b9a2-25d7f463968c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Application/apache-maven-3.6.3-bin/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Application\apache-maven-3.6.3-bin\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mgAdfTUfRIMzXGDsmaWQSpxb1t" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
+  </component>
+  <component name="RunManager" selected="JUnit.ApplicationTests.test">
+    <configuration name="ApplicationTests.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-multisource" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dev.pos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dev.pos" />
+      <option name="MAIN_CLASS_NAME" value="com.dev.pos.ApplicationTests" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-multisource" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xncoding.pos.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ApplicationTests.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d01d7bdb-4321-4cbe-b9a2-25d7f463968c" name="Default Changelist" comment="" />
+      <created>1609904948656</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609904948656</updated>
+      <workItem from="1609904956823" duration="1409000" />
+      <workItem from="1609906814513" duration="650000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="702" y="225" key="FileChooserDialogImpl" timestamp="1609905516759">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="702" y="225" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1609905516759" />
+    <state width="1877" height="521" key="GridCell.Tab.0.bottom" timestamp="1609907541404">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="521" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1609907541404" />
+    <state width="1877" height="521" key="GridCell.Tab.0.center" timestamp="1609907541404">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="521" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1609907541404" />
+    <state width="1877" height="521" key="GridCell.Tab.0.left" timestamp="1609907541404">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="521" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1609907541404" />
+    <state width="1877" height="521" key="GridCell.Tab.0.right" timestamp="1609907541404">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="521" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1609907541404" />
+    <state x="580" y="246" width="759" height="548" key="find.popup" timestamp="1609907351331">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="580" y="246" width="759" height="548" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1609907351331" />
+    <state x="297" y="189" key="new project wizard" timestamp="1609905526843">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="297" y="189" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1609905526843" />
+  </component>
+</project>

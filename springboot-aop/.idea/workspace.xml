@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="66c7a512-c49e-42fd-96b0-08fd458c6186" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Application/apache-maven-3.6.3-bin/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Application\apache-maven-3.6.3-bin\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mgXmV9oISQyO5R0Qdqgo6FoEjf" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.dev.service" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.dev" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.dev.service" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.AspectTestServiceTest.test">
+    <configuration name="AspectTestServiceTest.ins" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-aop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dev.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dev.service" />
+      <option name="MAIN_CLASS_NAME" value="com.dev.service.AspectTestServiceTest" />
+      <option name="METHOD_NAME" value="ins" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AspectTestServiceTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-aop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dev.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dev.service" />
+      <option name="MAIN_CLASS_NAME" value="com.dev.service.AspectTestServiceTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootAopApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-aop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dev.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dev" />
+      <option name="MAIN_CLASS_NAME" value="com.dev.SpringbootAopApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootAopApplicationTests.testLog" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-aop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dev.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dev" />
+      <option name="MAIN_CLASS_NAME" value="com.dev.SpringbootAopApplicationTests" />
+      <option name="METHOD_NAME" value="testLog" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootAopApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-aop" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dev.SpringbootAopApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AspectTestServiceTest.test" />
+        <item itemvalue="JUnit.SpringbootAopApplicationTests.testLog" />
+        <item itemvalue="JUnit.AspectTestServiceTest.ins" />
+        <item itemvalue="JUnit.SpringbootAopApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66c7a512-c49e-42fd-96b0-08fd458c6186" name="Default Changelist" comment="" />
+      <created>1609916366658</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609916366658</updated>
+      <workItem from="1609916385563" duration="8136000" />
+      <workItem from="1609931138453" duration="652000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1247" y="451" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1609917882452">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1247" y="451" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609917882452" />
+    <state x="1224" y="411" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1609917895855">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1224" y="411" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1040@0.0.1920.1040" timestamp="1609917895855" />
+    <state width="1226" height="356" key="GridCell.Tab.0.bottom" timestamp="1609924887015">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1226" height="356" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1609924887015" />
+    <state width="1226" height="356" key="GridCell.Tab.0.center" timestamp="1609924887013">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1226" height="356" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1609924887013" />
+    <state width="1226" height="356" key="GridCell.Tab.0.left" timestamp="1609924887013">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1226" height="356" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1609924887013" />
+    <state width="1226" height="356" key="GridCell.Tab.0.right" timestamp="1609924887013">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1226" height="356" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1609924887013" />
+    <state x="970" y="399" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1609920231644">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="970" y="399" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609920231644" />
+    <state x="1060" y="249" width="759" height="548" key="find.popup" timestamp="1609922774432">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1060" y="249" width="759" height="548" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1609922774432" />
+    <state x="1087" y="361" width="672" height="678" key="search.everywhere.popup" timestamp="1609921193994">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1087" y="361" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1609921193994" />
+  </component>
+</project>
