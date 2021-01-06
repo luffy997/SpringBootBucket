@@ -7,9 +7,8 @@
 
 -[博客](https://luffy997.github.io/)
 
-十分感谢大佬的指导，大佬的文章：
+## 十分感谢大佬的指导，大佬的文章：
 
--[博客](https://www.xncoding.com/)
+[博客](https://www.xncoding.com/)
 
--[GitHub](https://github.com/yidao620c)
-
+[GitHub](https://github.com/yidao620c)
