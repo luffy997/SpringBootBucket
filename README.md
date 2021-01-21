@@ -13,6 +13,8 @@
 - Spring Boot 2.4.1
 - Intellij IDEA
 - mysql 5.6
+- lombok
+- devtools
 - mongodb
 - git 版本管理
 - nginx 反向代理
